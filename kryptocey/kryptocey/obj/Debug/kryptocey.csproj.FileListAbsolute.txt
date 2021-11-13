@@ -1,0 +1,2 @@
+C:\Users\zarme\source\repos\kryptocey\kryptocey\obj\Debug\kryptocey.csproj.AssemblyReference.cache
+C:\Users\zarme\source\repos\kryptocey\kryptocey\obj\Debug\kryptocey.csproj.CoreCompileInputs.cache
